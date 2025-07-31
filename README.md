@@ -138,21 +138,7 @@ Contributions are welcome! Please open an issue or submit a PR.
 
 ## 🌐 Links
 
-* 🔗 **NPM**: [https://www.npmjs.com/package/top-progress-bar](https://www.npmjs.com/package/top-progress-bar)
-* 🐙 **GitHub**: [https://github.com/yourusername/top-progress-bar](https://github.com/yourusername/top-progress-bar)
+* 🔗 **NPM**: [https://github.com/jamalofficial/top-progress-bar](https://github.com/jamalofficial/top-progress-bar)
+* 🐙 **GitHub**: [https://www.npmjs.com/package/@jamalofficial/top-progress-bar](https://www.npmjs.com/package/@jamalofficial/top-progress-bar)
 
 ---
-
-```
-
-### ✅ What to Change:
-| Placeholder | What to Replace |
-|------------|------------------|
-| `YourApp` | Your root component (e.g., `Routes`, `Router`, etc.) |
-| `yourusername` | Your GitHub username |
-| `[Your Name]` | Your full name or handle |
-
----
-
-Would you like me to also prepare this in a downloadable zip with the full folder structure (`src/`, `index.js`, `package.json`, etc.) ready to publish?
-```
