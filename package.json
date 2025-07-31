@@ -1,5 +1,5 @@
 {
-  "name": "top-progress-bar",
+  "name": "@jamalofficial/top-progress-bar",
   "version": "1.0.0",
   "description": "Lightweight customizable top progress bar for React (global with hook support)",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "hook",
     "react-component"
   ],
-  "author": "jamalofficial",
+  "author": "Jamal jamal.official1231@gmail.com",
   "license": "MIT",
   "repository": {
     "type": "git",
