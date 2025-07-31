@@ -126,7 +126,7 @@ useEffect(() => {
 
 ## 📝 License
 
-MIT © [Your Name](https://github.com/yourusername)
+MIT © [jamalofficial](https://github.com/jamalofficial)
 
 ---
 
