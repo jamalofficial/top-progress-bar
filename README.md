@@ -1,6 +1,4 @@
----
 
-````markdown
 # 🟦 Top Progress Bar
 
 A lightweight, customizable **top-loading progress bar** for React apps. Designed to be globally accessible with the `useTopBar()` hook and no external dependencies. Ideal for showing loading states during async operations like route transitions, API calls, or dynamic UI rendering.
