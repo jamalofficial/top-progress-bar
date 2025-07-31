@@ -1,0 +1,26 @@
+{
+  "name": "top-progress-bar",
+  "version": "1.0.0",
+  "description": "Lightweight customizable top progress bar for React (global with hook support)",
+  "main": "index.js",
+  "module": "index.js",
+  "type": "module",
+  "files": ["src", "index.js"],
+  "scripts": {
+    "build": "echo 'No build needed (pure JS)'",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "react",
+    "progress-bar",
+    "top-bar",
+    "loading",
+    "hook",
+    "react-component"
+  ],
+  "author": "jamalofficial",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0"
+  }
+}
