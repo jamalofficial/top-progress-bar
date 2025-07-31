@@ -1,6 +1,6 @@
 {
   "name": "@jamalofficial/top-progress-bar",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Lightweight customizable top progress bar for React (global with hook support)",
   "main": "index.js",
   "module": "index.js",
